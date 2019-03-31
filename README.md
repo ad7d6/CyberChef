@@ -1,6 +1,6 @@
 # CyberChef
 
-Stable build of CyberChef with some external links stripped out.
+Stable build of [CyberChef](https://github.com/gchq/CyberChef) with some external links stripped out.
 
 
 #### *The Cyber Swiss Army Knife*
